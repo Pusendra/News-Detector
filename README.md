@@ -13,5 +13,4 @@
 
 
 # Can I contribute?
-Ofcourse! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
-I promise to approve the PR first, and only then review it.
+Ofcourse! I would be happy to see your pull requests :) :)
