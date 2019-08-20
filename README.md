@@ -10,8 +10,7 @@
 
 - An icon <img src="icon-stark.png" alt="🐺" width="50"/> should appear besides your Chrome Search bar.
 - That's all :D Try opening any [Rabi lamichhane news ](https://www.google.com/search?q=rabis) page to enjoy the blocking power.
-# Video Demo:
--
+
 
 # Do star it after downloading :)
 
